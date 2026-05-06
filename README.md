@@ -1,26 +1,26 @@
 # My Tree
 
-Một interactive animation website với cây nở hoa, hiệu ứng mưa tuyết và theme chuyển đổi.
+Website animation cây nở hoa, mưa tuyết và chế độ dark/light.
+
+## Link deploy
+
+https://tree-git-main-phtee2412s-projects.vercel.app/
 
 ## Setup & Run
 
 ```bash
-# Install dependencies
 npm install
-
-# Build minified assets
 npm run build
-
-
-## Technologies
-
-- HTML5 Canvas (animation)
-- Vanilla JavaScript (no frameworks)
-- CSS3 (styling + transitions)
 ```
-## Deployment
 
-Deploy lên **Vercel** - chỉ cần connect GitHub repo!
----
+Sau đó mở `index.html`
 
-**email: phtee2412@gmail.com**
+## Công nghệ
+
+- HTML5
+- Vanilla JavaScript
+- CSS3
+
+**Email: phtee2412@gmail.com**
+
+
