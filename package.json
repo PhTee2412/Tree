@@ -1,0 +1,25 @@
+{
+  "name": "my_tree",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000M\u0000y\u0000_\u0000T\u0000r\u0000e\u0000e\u0000\r\u0000 \u0000",
+  "main": "tree.js",
+  "scripts": {
+    "build": "terser tree.js -o tree.min.js && cleancss tree.css -o tree.min.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhTee2412/My_Tree.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhTee2412/My_Tree/issues"
+  },
+  "homepage": "https://github.com/PhTee2412/My_Tree#readme",
+  "devDependencies": {
+    "clean-css-cli": "^5.6.3",
+    "terser": "^5.46.2"
+  }
+}

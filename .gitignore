@@ -1,0 +1,4 @@
+node_modules/
+# Source files (keep minified versions)
+/tree.js
+/tree.css
