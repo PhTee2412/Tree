@@ -4,7 +4,7 @@
   "description": "��#\u0000 \u0000M\u0000y\u0000_\u0000T\u0000r\u0000e\u0000e\u0000\r\u0000 \u0000",
   "main": "tree.js",
   "scripts": {
-    "build": "terser tree.js -o tree.min.js && cleancss tree.css -o tree.min.css",
+    "build": "node build.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/PhTee2412/My_Tree#readme",
   "devDependencies": {
+    "clean-css": "^5.3.3",
     "clean-css-cli": "^5.6.3",
     "terser": "^5.46.2"
   }
