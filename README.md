@@ -17,11 +17,10 @@ npm run build
 - HTML5 Canvas (animation)
 - Vanilla JavaScript (no frameworks)
 - CSS3 (styling + transitions)
-
+```
 ## Deployment
 
 Deploy lên **Vercel** - chỉ cần connect GitHub repo!
-``` 
 ---
 
 **email: phtee2412@gmail.com**
